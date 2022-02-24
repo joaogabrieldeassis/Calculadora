@@ -1,0 +1,15 @@
+C:\joao\joao\bin\Debug\net6.0\joao.exe
+C:\joao\joao\bin\Debug\net6.0\joao.deps.json
+C:\joao\joao\bin\Debug\net6.0\joao.runtimeconfig.json
+C:\joao\joao\bin\Debug\net6.0\joao.dll
+C:\joao\joao\bin\Debug\net6.0\joao.pdb
+C:\joao\joao\obj\Debug\net6.0\joao.csproj.AssemblyReference.cache
+C:\joao\joao\obj\Debug\net6.0\joao.GeneratedMSBuildEditorConfig.editorconfig
+C:\joao\joao\obj\Debug\net6.0\joao.AssemblyInfoInputs.cache
+C:\joao\joao\obj\Debug\net6.0\joao.AssemblyInfo.cs
+C:\joao\joao\obj\Debug\net6.0\joao.csproj.CoreCompileInputs.cache
+C:\joao\joao\obj\Debug\net6.0\joao.dll
+C:\joao\joao\obj\Debug\net6.0\refint\joao.dll
+C:\joao\joao\obj\Debug\net6.0\joao.pdb
+C:\joao\joao\obj\Debug\net6.0\joao.genruntimeconfig.cache
+C:\joao\joao\obj\Debug\net6.0\ref\joao.dll
